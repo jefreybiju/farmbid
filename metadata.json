@@ -1,0 +1,6 @@
+{
+  "name": "FarmBid",
+  "description": "Direct agricultural auction marketplace connecting farmers and buyers with dedicated portals, live bidding, and custom farm theme palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
